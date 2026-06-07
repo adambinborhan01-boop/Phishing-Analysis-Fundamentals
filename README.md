@@ -116,7 +116,7 @@ Ctrl + U
 
 ### Evidence
 
-![Email Header Analysis](thmphishingemails/email-ip.png)
+![Email Header Analysis](thmphishingemails/email%20ip.png)
 
 ### Question
 
@@ -156,7 +156,7 @@ Review the attachment metadata contained within the message source.
 
 ### Evidence
 
-![Attachment Metadata](thmphishingemails/content-type.png)
+![Attachment Metadata](thmphishingemails/content%20type.png)
 
 ### Question
 
@@ -188,7 +188,7 @@ After decoding the content and opening the reconstructed PDF, the hidden flag ca
 
 ### Evidence
 
-![Decoded PDF](thmphishingemails/pdf-decode.png)
+![Decoded PDF](thmphishingemails/pdf%20decode.png)
 
 ### Question
 
@@ -231,7 +231,7 @@ Email Samples/email3.eml
 
 ### Evidence
 
-![Home Depot Phishing Email](thmphishingemails/home-depot.png)
+![Home Depot Phishing Email](thmphishingemails/home%20depot.png)
 
 ### Question
 
